@@ -10,10 +10,10 @@
 	<script src="js-test.js"> </script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 	
-	
 	</head>
 
-	<body id="body">
+	<body id="body" onresize="resize()">
+	
 	
 	<nav class="navbar navbar-expand-lg navbar-light bg-light">
 		<a class="navbar-brand" href="index.html">Bringslid Trafikkskole</a>
@@ -43,17 +43,21 @@
 		<p>Dette er en side som inneholder hvilke kjøretøy vi har. </p>
 	<div class="container">
 		<div class="row">
-			<div class="col-6">
-				<h4>BMW X1 </h4>
-				<img src="bringslidtrafikkskole-bmw.jpg" alt="bmw" width="450" height="300">
-				<p>Årsmodell: 2020</p>
-				<p>Girtype: manuell</p>
-				<p>Firhjulstrekk: ja</p>
+			<div id="col1" class="col-6">
+				<div class="col">
+					<h4>BMW X1 </h4>
+					<img src="bringslidtrafikkskole-bmw.jpg" alt="bmw" width="450" height="300">
+					<p>Årsmodell: 2020</p>
+					<p>Girtype: manuell</p>
+					<p>Firhjulstrekk: ja</p>
+				</div>
 			</div>
-			<div class="col-6">
-				<h4>Toyota Yaris Hybrid </h4>
-				<img src="bringslidtrafikkskole-yaris.jpg" alt="bmw" width="450" height="300">
-				<p>Girtype: automat</p>
+			<div id="col2" class="col-6">
+				<div class="col">
+					<h4>Toyota Yaris Hybrid </h4>
+					<img src="bringslidtrafikkskole-yaris.jpg" alt="bmw" width="450" height="300">
+					<p>Girtype: automat</p>
+				</div>
 			</div>
 		</div>
 	</div>
