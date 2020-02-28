@@ -1,13 +1,8 @@
 
-
-body {
-  background-color: white;
+.page-footer {
+		background-color: LightGray;
 }
 
-h3 {
-	text-align: center;
-]
-
-p {
-	color: red;
+.bottom-space {
+		margin-bottom: 1cm;
 }
