@@ -1,6 +1,4 @@
 
-document.getElementById("para1").innerHTML = '';
-
 var tall = 0;
 
 function minFunksjon() {
@@ -11,6 +9,17 @@ function minFunksjon() {
 
 function skiftSide() {
 		window.location.href = "jarl2.html";
+}
+
+function resize() {
+		if ($(window).width() < 1000) {
+		document.getElementById("col1").className="row";
+		document.getElementById("col2").className="row";
+		}
+		else {
+		document.getElementById("col1").className="col-6";
+		document.getElementById("col2").className="col-6";
+		}
 }
 
 
