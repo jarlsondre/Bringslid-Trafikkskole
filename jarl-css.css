@@ -10,3 +10,24 @@
 .bottom-space {
 		margin-bottom: 1cm;
 }
+
+.bottom-space2 {
+	margin-bottom: 0.5cm;
+}
+
+.noLeftPadding {
+	padding-left: 0pt;
+}
+
+.noMarginTop {
+	margin-top: 0px;
+}
+
+.leftAlign {
+	text-align: left;
+}
+
+.rightAlign {
+	text-align: right;
+}
+
