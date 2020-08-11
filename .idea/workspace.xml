@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4654c3e9-4dc9-4ac0-a22b-f07f91fe9a06" name="Default Changelist" comment="" />
+    <list default="true" id="4654c3e9-4dc9-4ac0-a22b-f07f91fe9a06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bringslidtrafikkskole-bmw.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bringslidtrafikkskole-bmw.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bringslidtrafikkskole-yaris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/bringslidtrafikkskole-yaris.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kjoretoy.html" beforeDir="false" afterPath="$PROJECT_DIR$/kjoretoy.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -39,6 +45,7 @@
       <updated>1592500533667</updated>
       <workItem from="1592500539053" duration="1264000" />
       <workItem from="1595412077832" duration="4403000" />
+      <workItem from="1597184044502" duration="677000" />
     </task>
     <servers />
   </component>
