@@ -31,3 +31,12 @@
 	text-align: right;
 }
 
+.maps {
+	width: 100%;
+	height: calc(50vw);
+}
+
+.row-height {
+	height: calc(52vw);
+}
+
