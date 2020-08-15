@@ -1,0 +1,42 @@
+
+.page-footer {
+		background-color: LightGray;
+}
+
+.footer-copyright {
+		background-color: silver;
+}
+
+.bottom-space {
+		margin-bottom: 1cm;
+}
+
+.bottom-space2 {
+	margin-bottom: 0.5cm;
+}
+
+.noLeftPadding {
+	padding-left: 0pt;
+}
+
+.noMarginTop {
+	margin-top: 0px;
+}
+
+.leftAlign {
+	text-align: left;
+}
+
+.rightAlign {
+	text-align: right;
+}
+
+.maps {
+	width: 100%;
+	height: calc(50vw);
+}
+
+.row-height {
+	height: calc(52vw);
+}
+
