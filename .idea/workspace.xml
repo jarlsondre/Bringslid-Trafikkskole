@@ -20,7 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learn-javascript" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
@@ -41,6 +41,7 @@
       <workItem from="1592500539053" duration="1264000" />
       <workItem from="1595412077832" duration="4403000" />
       <workItem from="1597184044502" duration="1277000" />
+      <workItem from="1597575282436" duration="14000" />
     </task>
     <servers />
   </component>
@@ -52,5 +53,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1592501092982" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597575294128">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597575294128" />
   </component>
 </project>
